@@ -89,7 +89,7 @@ footer p {
     margin-top: 0.5rem;
 }
 
-.cartao:hover .cartao__conteudo {
+.cartao:active .cartao__conteudo {
     transform: rotateY(180deg);
 
 }
